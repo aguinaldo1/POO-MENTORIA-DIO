@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\bin\Debug\net5.0\POO-MENTORIA-DIO.exe
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\bin\Debug\net5.0\POO-MENTORIA-DIO.deps.json
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\bin\Debug\net5.0\POO-MENTORIA-DIO.runtimeconfig.json
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\bin\Debug\net5.0\POO-MENTORIA-DIO.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\bin\Debug\net5.0\POO-MENTORIA-DIO.dll
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\bin\Debug\net5.0\ref\POO-MENTORIA-DIO.dll
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\bin\Debug\net5.0\POO-MENTORIA-DIO.pdb
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\obj\Debug\net5.0\POO-MENTORIA-DIO.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\obj\Debug\net5.0\POO-MENTORIA-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\obj\Debug\net5.0\POO-MENTORIA-DIO.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\obj\Debug\net5.0\POO-MENTORIA-DIO.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\obj\Debug\net5.0\POO-MENTORIA-DIO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\obj\Debug\net5.0\POO-MENTORIA-DIO.dll
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\obj\Debug\net5.0\ref\POO-MENTORIA-DIO.dll
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\obj\Debug\net5.0\POO-MENTORIA-DIO.pdb
+C:\Users\Administrator\Desktop\Cursos em Andamento\DIO\POO-MENTORIA-DIO\obj\Debug\net5.0\POO-MENTORIA-DIO.genruntimeconfig.cache
